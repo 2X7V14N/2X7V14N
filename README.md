@@ -1,20 +1,22 @@
 ﻿<div align="center">
 
-# 2X7V14N.exe 正在加载中...🤡 
-机器人感知学习器 | OpenCV C++ | ROS2 | 2D/3D视觉
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=2X7V14N.exe%20Loading...&fontSize=42&fontAlignY=35&animation=twinkling" />
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250" />
+# 🤡 机器人感知炼丹师 / Bug Manufacturing Engineer
+
+**Robot Perception Learner | OpenCV C++ | ROS2 | 2D/3D Vision**
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&pause=1000&color=FF5733&center=true&vCenter=true&width=700&lines=正在让相机看懂世界;精通把+Warning+养成+Error;OpenCV+调参型选手;ROS2+节点施工中;Robot+Perception+Loading...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=720&lines=Robot+Perception+Loading...;Pixel+Cat+Assistant+Online...;OpenCV+Debugging+In+Progress...;Camera+Calibration+Next+Quest...;ROS2+Nodes+Under+Construction...)](https://git.io/typing-svg)
+
+
 
 </div>
 
 ---
 
 ## 🧪 当前人设 / Current Build
-
 
 我正在系统学习 **Robot Perception Algorithms / 机器人感知算法**。
 
@@ -30,26 +32,34 @@ OpenCV 2D Vision
 -> SLAM
 ```
 
+```text
+白天：Robot Perception Learner
+晚上：OpenCV Error Researcher
+深夜：CMake Mystery Observer
+目标：让机器人知道自己到底该抓哪儿
+```
+
 ---
 
+---
 ## 🤹‍♂️ 核心技术栈 / Core Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C++17-正在驯服-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-视觉炼丹炉-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-构建法阵-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/ROS2-Robot%20Comms-22314E?style=for-the-badge&logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-Neural%20Summoning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/PCL-Point%20Cloud%20Crew-2496ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++17-Being_Tamed-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-Vision_Forge-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-Build_Ritual-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/ROS2-Robot_Comms-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-Neural_Summoning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PCL-Point_Cloud_Crew-2496ED?style=for-the-badge" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Ctrl%20%2B%20C-谨慎使用-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ctrl%20%2B%20V-带脑粘贴-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stack_Overflow-急救箱-orange?style=for-the-badge&logo=stackoverflow" />
-  <img src="https://img.shields.io/badge/Bug-越修越像特征-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ctrl+C-Use_Carefully-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ctrl+V-Paste_With_Brain-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack_Overflow-Emergency_Kit-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bug-Feature_In_Disguise-8A2BE2?style=for-the-badge" />
 </div>
 
 ---
@@ -104,7 +114,7 @@ Batch image loading
 | 5 | PCL Point Cloud | 从 2D 升级到 3D 感知 | ⏳ 排队中 |
 | 6 | Deep Learning Vision | YOLO、Segmentation、ONNX Inference | ⏳ 排队中 |
 | 7 | SLAM | 让机器人知道自己在哪 | ⏳ 排队中 |
-| 8 | 待解锁 | 待解锁 | ⏳ 待解锁 |
+| 8 | Locked Quest | 待解锁 | ⏳ 待解锁 |
 
 ---
 
@@ -137,21 +147,32 @@ Robot usable pose = (X, Y, theta)
 
 ---
 
-## 📈 摸鱼及机器人施工统计 / GitHub Stats
+## 📈 摸鱼及机器人施工统计 / Build Progress
+
+> GitHub stats 服务偶尔会加载失败，所以这里改成不抽风的手写施工面板。
+
+| 模块 / Module | 当前进度 / Progress | 状态 / Status |
+|---|---:|---|
+| OpenCV Traditional Vision | `██████████` 100% | ✅ 已通关 |
+| C++ / CMake Project Setup | `█████░░░░░` 40% | 🔧 继续驯服中 |
+| Camera Calibration & Homography | `██░░░░░░░░` 20% | 🔜 当前主线 |
+| ROS2 Perception Nodes | `░░░░░░░░░░` 0% | ⏳ 准备施工 |
+| Robot Coordinate Transform | `░░░░░░░░░░` 0% | 💤 等待解锁 |
+| PCL Point Cloud | `░░░░░░░░░░` 0% | 💤 等待解锁 |
+| PyTorch / YOLO Vision | `░░░░░░░░░░` 0% | 💤 等待解锁 |
+| SLAM | `░░░░░░░░░░` 0% | 🧊 终局副本 |
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2X7V14N&show_icons=true&theme=synthwave&hide_border=true&title_color=FF5733" width="48%" />
- 
+
+<img src="https://img.shields.io/badge/Current_Quest-Camera_Calibration_%26_Homography-FF5733?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Main_Project-OpenCV_Grasp_Pose_Estimation-5C3EE8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Building_Robot_Perception-2EA44F?style=for-the-badge" />
+
 </div>
-<!-- 综合数据统计卡片 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2X7V14N&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</div>
+
 ---
 
-<div align="center">
-  <h3>🎉 恭喜你是第 <img src="https://profile-counter.glitch.me/2X7V14N/count.svg" /> 个闯入这个 Chaotic Lab 的人</h3>
----
+
 
 ## 🌱 Long-Term Goal / 长期目标
 
@@ -164,4 +185,91 @@ Camera sees the object
 -> I smile wisely
 ```
 
-长期目标是建立一套完整的机器人感知基础，把 **Vision、Geometry、ROS2、3D Perception 和 Intelligent Grasping** 串成一条真正能工作的链路。
+
+---
+
+## 📊 GitHub Data Showcase / 数据展示
+
+<div align="center">
+
+<img src="./assets/pixel-cat.svg" width="118" alt="Pixel cat" />
+<img src="./assets/pixel-dog.svg" width="96" alt="Pixel dog" />
+
+<br>
+
+<b>Pixel GitHub Dashboard：小猫负责看访客，小狗负责数提交。</b>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Mochi.cat-Visitor_Watcher-ffb6c1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Debug.dog-Commit_Counter-a97142?style=for-the-badge" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <b>🐱 Visitors</b><br><br>
+      <img src="https://komarev.com/ghpvc/?username=2X7V14N&label=Visitors&color=ff69b4&style=for-the-badge" />
+    </td>
+    <td align="center" width="33%">
+      <b>🐾 Followers</b><br><br>
+      <img src="https://img.shields.io/github/followers/2X7V14N?label=Followers&color=ffb86c&style=for-the-badge&logo=github" />
+    </td>
+    <td align="center" width="33%">
+      <b>⭐ Stars</b><br><br>
+      <img src="https://img.shields.io/github/stars/2X7V14N?affiliations=OWNER%2CCOLLABORATOR&label=Stars&color=f9e2af&style=for-the-badge&logo=github" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=2X7V14N&theme=tokyonight" width="92%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2X7V14N&theme=tokyonight" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2X7V14N&theme=tokyonight&utcOffset=8" width="45%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2X7V14N&theme=tokyonight" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2X7V14N&theme=tokyonight" width="45%" />
+
+</div>
+
+<br>
+
+```text
+ /\_/\\   Mochi.cat: "访客 +1，已记录到小鱼干账本。"
+( o.o )
+ > ^ <    Debug.dog: "提交记录巡逻完成，GitHub 今日无异常。"
+```
+
+> 这里展示的是 GitHub 相关动态数据：访客、followers、stars、提交与语言统计。若某张统计卡偶尔加载失败，通常是第三方统计服务缓存或限流问题。
+<div align="center">
+
+<img src="./assets/pixel-bunny.svg" width="96" alt="Pixel bunny" />
+<img src="./assets/pixel-cat.svg" width="110" alt="Pixel cat" />
+<img src="./assets/pixel-bird.svg" width="94" alt="Pixel bird" />
+
+<br>
+
+<b>Pixel pets are closing the lab. See you in the next commit.</b>
+
+</div>
+
+
+
+
+
+
