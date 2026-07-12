@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=2X7V14N.exe%20Loading...&fontSize=42&fontAlignY=35&animation=twinkling" />
 
-# 🤡 机器人感知炼丹师 / Bug Manufacturing Engineer
+# 🤡 机器人感知结构炼丹师 / Bug Manufacturing Engineer
 
-**Robot Perception Learner | OpenCV C++ | ROS2 | 2D/3D Vision**
+
 
 <br>
 
@@ -18,25 +18,28 @@
 
 ## 🧪 当前人格 / Current Personality
 
-我正在系统学习 **Robot Perception Algorithms / 机器人感知算法**。
+我是一名机械背景的研究生，目前正在转行向机器人方向。
 
-当前主线是从传统 OpenCV 视觉出发，逐步升级到：
+I am a graduate student with a mechanical engineering background, and I am currently switching my focus to robotics.
+
+目前主要关注 **机器人感知 / Robot Perception**、**机器人结构 / Robot Structure**、**机器视觉 / Machine Vision**、**具身智能 / Embodied AI**
 
 ```text
-OpenCV 2D Vision
--> Camera Calibration & Homography
+Robot Perception / 机器人感知
+OpenCV C++ -> Camera Calibration & Homography
+-> Grasp Pose Estimation
 -> ROS2 Perception Nodes
--> Robot Coordinate Frames & Hand-Eye Calibration
--> PCL Point Cloud Processing
+-> 3D Vision / PCL
 -> PyTorch / YOLO Deep Vision
--> SLAM
 ```
 
 ```text
-白天：Robot Perception Learner
-晚上：OpenCV Error Researcher
-深夜：CMake Mystery Observer
-目标：让机器人知道自己到底该抓哪儿
+Robot Structure / 机器人结构
+Mechanical Design
+-> End Effector & Gripper
+-> Robot Joint Module
+-> Lightweight Robotic Arm
+-> FEA & Structural Optimization
 ```
 
 ---
@@ -50,6 +53,15 @@ OpenCV 2D Vision
   <img src="https://img.shields.io/badge/ROS2-Robot_Comms-22314E?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-Neural_Summoning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/PCL-Point_Cloud_Crew-2496ED?style=for-the-badge" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Mechanical_Design-Robot_Structure-6B7280?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/End_Effector-Gripper_Design-FFB000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Robot_Joint-Module_Design-00A6A6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FEA-Structural_Optimization-B24BF3?style=for-the-badge" />
 </div>
 
 <br>
@@ -69,8 +81,10 @@ OpenCV 2D Vision
 ## 🌱 Long-Term Goal / 长期目标
 
 ```text
-VLA
+实现财富自由，开上帕拉梅拉，住上大平层
+Achieve financial freedom, drive a Panamera, and live in a large apartment.
 ```
+
 
 
 ---
@@ -95,7 +109,7 @@ VLA
 
 <div align="center">
 
-![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=<2X7V14N>)
+![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=2X7V14N&theme=road_trip&screen_effect=false&pixelate_avatar=true&dithering=true)
 
 </div>
 
@@ -120,8 +134,15 @@ VLA
 
 </div>
 
+---
 
+## 🟩 Annual Contributions / 年度提交日历
 
+<div align="center">
+
+<img src="https://ghchart.rshah.org/2X7V14N" alt="2X7V14N's GitHub contribution chart" width="100%" />
+
+</div>
 
 
 
