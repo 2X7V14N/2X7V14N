@@ -81,7 +81,7 @@ Mechanical Design
 ## 🌱 Long-Term Goal / 长期目标
 
 ```text
-实现财富自由，开上帕拉梅拉，住上大平层
+实现财富自由，开上帕拉梅拉，住上大平层。
 Achieve financial freedom, drive a Panamera, and live in a large apartment.
 ```
 
