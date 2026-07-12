@@ -8,7 +8,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=720&lines=Robot+Perception+Loading...;Pixel+Cat+Assistant+Online...;OpenCV+Debugging+In+Progress...;Camera+Calibration+Next+Quest...;ROS2+Nodes+Under+Construction...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=720&lines=Robot+Perception+Loading...;Robot+Structure+Designing...;SolidWorks+Modeling+In+Progress...;Gripper+Mechanism+Under+Construction...;Robot+Joint+Module+Tuning...;OpenCV+Debugging+In+Progress...;Camera+Calibration+Next+Quest...;ROS2+Nodes+Under+Construction...)](https://git.io/typing-svg)
 
 
 
