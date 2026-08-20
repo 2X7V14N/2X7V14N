@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="./assets/profile-pets.png" width="534" alt="Pixel pets illustration" />
+<img src="./assets/profile-pets.jpg" width="534" alt="Cute pets working out illustration" />
 
 
 
