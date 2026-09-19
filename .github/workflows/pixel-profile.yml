@@ -16,6 +16,7 @@ jobs:
       - name: generate github stats card
         uses: LuciNyan/pixel-profile/action@main
         with:
+          github_token: ${{ secrets.PIXEL_PROFILE_TOKEN }}
           outputs: |
             dist/github-stats?username=2X7V14N&theme=fuji
             dist/github-stats-dark?username=2X7V14N&theme=crt
